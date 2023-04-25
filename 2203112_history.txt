@@ -1,0 +1,155 @@
+    1  git clone https://github.com/Harshit2203112/harshit.github.io.git
+    2  ls
+    3  git clone https://github.com/Harshit2203112/repo1.git
+    4  ls
+    5  cd repo1
+    6  touch test.txt
+    7  git add
+    8  git add .
+    9  git commit -m "This is empty"
+   10  git push -h
+   11  git push origin main
+   12  git branch
+   13  git push origin master
+   14  git push -u origin master
+   15  clone 
+   16  git --version
+   17  git clone https://github.com/Harshit2203112/harshit.github.io.git
+   18  ls
+   19  git config user.email harshit.goyal.22031@iitgoa.ac.in
+   20  cd harshit.github.io
+   21  git config user.email harshit.goyal.22031@iitgoa.ac.in
+   22  git config user.name harshit
+   23  git config --global user.name harshit
+   24  git config --global user.email harshit.goyal.22031@iitgoa.ac.in
+   25  git user.name
+   26  whoami
+   27  who
+   28  vim count.sh
+   29  ls
+   30  mkdir practice.txt
+   31  cd practice.txt
+   32  touch test1.txt
+   33  touch test2.txt
+   34  touch test3.txt
+   35  cat > test1.txt
+   36  cat > test2.txt
+   37  cat > test3.txt
+   38  cd
+   39  bash count.sh practice.txt
+   40  cd practice.txt
+   41  ls
+   42  cd
+   43  vim count.sh
+   44  bash count.sh practice.txt
+   45  cd practice.txt
+   46  ls
+   47  cat yest.txt
+   48  cd
+   49  cd practice.txt
+   50  rm yest.txt
+   51  cd
+   52  vim count.sh
+   53  bash count.sh practice.txt
+   54  cd practice.txt
+   55  ls
+   56  cat yest.txt
+   57  rm yest.txt
+   58  cd
+   59  vim coun.sh
+   60  vim count.sh
+   61  bash count.sh practice.txt
+   62  cd practice.txt
+   63  cat yest.txt
+   64  cd
+   65  vim count.sh
+   66  git clone git@github.com:Harshit2203112/2203112-lab-exam.git
+   67  vim README.md
+   68  ls
+   69  rm README.md
+   70  cd 2203112-lab-exam
+   71  vim README.md
+   72  git add .
+   73  git commit -m ".md file to track ssh files"
+   74  cd
+   75  git clone https://github.com/tusharlone/cs102-git-essentials.git
+   76  ls
+   77  cd cs102-git-essentials
+   78  ls
+   79  cp ca_500.csv us_500.csv ..
+   80  cd
+   81  ls
+   82  cp ca_500.csv us_500.csv 2203112-lab-exam
+   83  cd cs102-lab-exam
+   84  cd 2203112-lab-exam
+   85  ls
+   86  add .
+   87  git add .
+   88  git commit -m "Finished question 1"
+   89  git status
+   90  git push origin master
+   91  wc -l ca_500.csv
+   92  wc -l us_500.csv
+   93  head -n 1 ca_500.csv
+   94  head -n 1 us_500.csv
+   95  grep -iw "montreal" ca_500.csv
+   96  touch ca_city_Montreal.csv
+   97  head -n 1 ca_500.csv >> ca_city_Montreal.csv
+   98  cat ca_city_Montreal.csv
+   99  grep -iw "montreal" >> ca_city_Montreal.csv
+  100  cat ca_city_Montreal.csv
+  101  grep -iw "montreal" ca_500.csv >> ca_city_Montreal.csv
+  102  cat ca_city_Montreal.csv
+  103  vim question9.sh
+  104  bash question9.sh oopuiyhu
+  105  vim question9.sh
+  106  bash question9.sh ca_500.csv city montreal
+  107  vim question9.sh
+  108  bash question9.sh ca_500.csv city montreal
+  109  vim question9.sh
+  110  bash question9.sh ca_500.csv city montreal
+  111  vim question9.sh
+  112  bash question9.sh ca_500.csv city montreal
+  113  vim question9.sh
+  114  bash question9.sh ca_500.csv city montreal
+  115  ls
+  116  cat city
+  117  cat montreal
+  118  cat _
+  119  rm _ city montreal ca
+  120  ls
+  121  vim question9.sh
+  122  bash question9.sh ca_500.csv city montreal
+  123  ls
+  124  rm montreal.csv
+  125  vim question9.sh
+  126  bash question9.sh ca_500.csv city montreal
+  127  vim question9.sh
+  128  bash question9.sh ca_500.csv city montreal
+  129  ls
+  130  rm __montreal.csv
+  131  vim question9.sh
+  132  bash question9.sh ca_500.csv city montreal
+  133  ls
+  134  rm ca_city_montreal.csv
+  135  vim question9.sh
+  136  bash question9.sh ca_500.csv city montreal
+  137  vim question9.sh
+  138  ls
+  139  cat ca_city_montreal.csv
+  140  rm ca_city_montreal.csv
+  141  vim question9.sh
+  142  mkdir code
+  143  mv question9.sh README.md code
+  144  mv us_500.csv ca_city_Montreal.csv ca_500.csv data
+  145  mkdir data
+  146  mv us_500.csv ca_city_Montreal.csv ca_500.csv data
+  147  ls
+  148  cd data
+  149  ls
+  150  cd ..
+  151  cd code
+  152  ls
+  153  cd ..
+  154  touch 2203112_history.txt 
+  155  history >> 2203112_history.txt
